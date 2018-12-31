@@ -1,5 +1,6 @@
 package pe4;
 
+
 public class FrequencyOfCharacter
 {
     public int frequencyOfaCharacterFinder(String s) {
@@ -17,3 +18,10 @@ public class FrequencyOfCharacter
         return charcount;
     }
 }
+=======
+public class FrequencyOfCharacter {
+    FrequencyOfCharacter frequencyOfCharacter=new FrequencyOfCharacter();
+
+
+}
+
