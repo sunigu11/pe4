@@ -18,10 +18,5 @@ public class FrequencyOfCharacter
         return charcount;
     }
 }
-=======
-public class FrequencyOfCharacter {
-    FrequencyOfCharacter frequencyOfCharacter=new FrequencyOfCharacter();
 
-
-}
 
