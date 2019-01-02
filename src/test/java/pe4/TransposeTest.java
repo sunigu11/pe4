@@ -1,5 +1,6 @@
 package pe4;
 
+
 import org.junit.Test;
 
 public class TransposeTest {
@@ -28,3 +29,8 @@ public class TransposeTest {
         assertTrue("siht si avaj gnimmargorp", s1);
     }
 }
+
+ public class TransposeTest {
+
+    }
+

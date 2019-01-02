@@ -1,4 +1,5 @@
 package pe4;
+
 import java.util.*;
 
 public class StringReplace {
@@ -10,5 +11,9 @@ public class StringReplace {
         return replace2;
 
     }
+
+
+
+public class StringReplace {
 
 }
