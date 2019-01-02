@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="b6811c8d-daa1-445e-b691-8583b2a585fe" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/pe4/MatchingString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/pe4/MatchingStringTest.java" afterDir="false" />
@@ -9,6 +10,11 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
 =======
+=======
+    <list default="true" id="2d35189e-69c0-4ef6-9741-0350a8c2f012" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+
+>>>>>>> f8f2ff6f3b13d5792bea47149494d3ee609d8d1e
 
     <list default="true" id="86685a65-45e5-4a21-b855-efbcd19664f8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
@@ -30,7 +36,11 @@
 
 
     </list>
+<<<<<<< HEAD
 >>>>>>> 5a9cf32b78df8b76c703cb758f7b18f9fc275982
+=======
+
+>>>>>>> f8f2ff6f3b13d5792bea47149494d3ee609d8d1e
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +50,7 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -47,6 +58,12 @@
             <state relative-caret-position="165">
               <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
 =======
+=======
+
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe4/App.java">
+>>>>>>> f8f2ff6f3b13d5792bea47149494d3ee609d8d1e
     <leaf>
       <file pinned="false" current-in-tab="false">
 
@@ -78,6 +95,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
+        <entry file="file://$PROJECT_DIR$/src/main/java/pe4/StringReplace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         <entry file="file://$PROJECT_DIR$/src/test/java/pe4/RegexTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -89,7 +111,11 @@
               <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
 
 
+<<<<<<< HEAD
 >>>>>>> 5a9cf32b78df8b76c703cb758f7b18f9fc275982
+=======
+
+>>>>>>> f8f2ff6f3b13d5792bea47149494d3ee609d8d1e
             </state>
           </provider>
         </entry>
@@ -104,6 +130,12 @@
                 <element signature="imports" expanded="true" />
               </folding>
 =======
+
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pe4/TransposeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
 
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pe4/Transpose.java">
@@ -156,7 +188,8 @@
               <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
 
               <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-r
+
+
 
 >>>>>>> 5a9cf32b78df8b76c703cb758f7b18f9fc275982
             </state>
@@ -172,6 +205,9 @@ r
         <option value="Class" />
         <option value="JUnit4 Test Class" />
 =======
+
+        <option value="Class" />
+
 
         <option value="JUnit4 Test Class" />
 
@@ -198,6 +234,11 @@ r
         <option value="$PROJECT_DIR$/src/main/java/pe4/MatchingString.java" />
 =======
 
+        <option value="$PROJECT_DIR$/src/test/java/pe4/StringReplaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pe4/StringReplace.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pe4/TransposeTest.java" />
+
+
         <option value="$PROJECT_DIR$/src/main/java/pe4/StringReplace.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe4/Transpose.java" />
         <option value="$PROJECT_DIR$/src/test/java/pe4/TransposeTest.java" />
@@ -208,7 +249,11 @@ r
         <option value="$PROJECT_DIR$/src/test/java/pe4/FrequencyOfCharacterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pe4/FrequencyOfCharacter.java" />
 
+<<<<<<< HEAD
 >>>>>>> 5a9cf32b78df8b76c703cb758f7b18f9fc275982
+=======
+
+>>>>>>> f8f2ff6f3b13d5792bea47149494d3ee609d8d1e
       </list>
     </option>
   </component>
@@ -219,6 +264,12 @@ r
       </MavenImportingSettings>
     </option>
   </component>
+
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1533" />
+    <option name="height" value="875" />
   <component name="ProjectFrameBounds" extendedState="7">
 
         <option value="$PROJECT_DIR$/src/main/java/pe4/FrequencyOfCharacter.java" />
@@ -235,6 +286,7 @@ r
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -242,6 +294,9 @@ r
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+
+      <pane id="Scope" />
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,10 +432,24 @@ r
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -392,55 +461,94 @@ r
             <path>
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pe4-1" type="462c0819:PsiDirectoryNode" />
+
               <item name="pe4" type="b2602c69:ProjectViewProjectNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pe4" type="462c0819:PsiDirectoryNode" />
             </path>
+
+            <path>
+              <item name="pe4-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+
+
           </expand>
           <select />
         </subPane>
       </pane>
+
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546260944703" />
+
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546259934490" />
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -454,6 +562,11 @@ r
       </list>
     </option>
   </component>
+
+  <component name="RunManager">
+    <configuration name="TransposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pe4-1" />
+
   <component name="RunManager" selected="JUnit.FrequencyOfCharacterTest.test2">
     <configuration name="FrequencyOfCharacterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.stackroute.practiceexercise" />
@@ -489,6 +602,7 @@ r
     </configuration>
     <configuration name="RegexTest.checkRegex1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.stackroute.practiceexercise" />
+
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pe4.*" />
@@ -496,18 +610,26 @@ r
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pe4" />
+
+      <option name="MAIN_CLASS_NAME" value="pe4.TransposeTest" />
+
       <option name="MAIN_CLASS_NAME" value="pe4.RegexTest" />
       <option name="METHOD_NAME" value="checkRegex1" />
       <option name="TEST_OBJECT" value="method" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+
+        <item itemvalue="JUnit.TransposeTest" />
+
         <item itemvalue="JUnit.FrequencyOfCharacterTest.test2" />
         <item itemvalue="JUnit.FrequencyOfCharacterTest.test1" />
         <item itemvalue="JUnit.RegexTest.checkRegex1" />
+
       </list>
     </recent_temporary>
   </component>
@@ -516,11 +638,19 @@ r
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+
+      <changelist id="2d35189e-69c0-4ef6-9741-0350a8c2f012" name="Default Changelist" comment="" />
+      <created>1546254653845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546254653845</updated>
+
       <changelist id="3d8a23b7-bad9-44a2-8ff5-f448c7e99eca" name="Default Changelist" comment="" />
       <created>1546258769934</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546258769934</updated>
+
     </task>
     <servers />
   </component>
@@ -528,6 +658,15 @@ r
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
+
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -538,6 +677,7 @@ r
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+
       <window_info anchor="bottom" id="Messages" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -546,6 +686,36 @@ r
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe4/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pe4/StringReplaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pe4/StringReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -755,11 +925,16 @@ r
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pe4/TransposeTest.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
@@ -783,6 +958,7 @@ r
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+
         </state>
       </provider>
     </entry>
