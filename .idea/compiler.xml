@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="com.stackroute.practiceexercise" />
         <module name="comstackroutepracticeexercise" />
+        <module name="pe4-1" />
       </profile>
     </annotationProcessing>
   </component>
